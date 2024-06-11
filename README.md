@@ -3,4 +3,4 @@ Nosso projeto consiste em um gerenciador de senhas, onde o usuário pode cadastr
 ## Responsáveis pelo desenvolvimente e ajustes 
 
 - Daniel de Castro Neves - 202303795521 
-- nikolas
+- nikolas - 202302380719
