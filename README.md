@@ -8,3 +8,5 @@ https://youtu.be/3QUkB0OaJSs
 
 - Daniel de Castro Neves - 202303795521 (desenvolvimento do website)
 - nikolas - 202302380719 ( desenvolvimento do banco de dados)
+
+Rafael Sobral da Silva - 202302382231
